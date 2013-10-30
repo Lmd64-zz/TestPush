@@ -10,17 +10,9 @@
 		0A73F0041816BA2600836D75 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0031816BA2600836D75 /* Foundation.framework */; };
 		0A73F0061816BA2600836D75 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0051816BA2600836D75 /* CoreGraphics.framework */; };
 		0A73F0081816BA2600836D75 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0071816BA2600836D75 /* UIKit.framework */; };
-		0A73F00E1816BA2600836D75 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A73F00C1816BA2600836D75 /* InfoPlist.strings */; };
-		0A73F0101816BA2600836D75 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A73F00F1816BA2600836D75 /* main.m */; };
-		0A73F0141816BA2600836D75 /* PPTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A73F0131816BA2600836D75 /* PPTAppDelegate.m */; };
-		0A73F0171816BA2600836D75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A73F0151816BA2600836D75 /* Main.storyboard */; };
-		0A73F01A1816BA2600836D75 /* PPTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A73F0191816BA2600836D75 /* PPTViewController.m */; };
-		0A73F01C1816BA2600836D75 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A73F01B1816BA2600836D75 /* Images.xcassets */; };
 		0A73F0231816BA2600836D75 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0221816BA2600836D75 /* XCTest.framework */; };
 		0A73F0241816BA2600836D75 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0031816BA2600836D75 /* Foundation.framework */; };
 		0A73F0251816BA2600836D75 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0071816BA2600836D75 /* UIKit.framework */; };
-		0A73F02D1816BA2600836D75 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A73F02B1816BA2600836D75 /* InfoPlist.strings */; };
-		0A73F02F1816BA2600836D75 /* PushTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A73F02E1816BA2600836D75 /* PushTestTests.m */; };
 		0A73F0391816BA8800836D75 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0381816BA8800836D75 /* Parse.framework */; };
 		0A73F03B1816BC7100836D75 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F03A1816BC7100836D75 /* AudioToolbox.framework */; };
 		0A73F03D1816BC7500836D75 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F03C1816BC7500836D75 /* CFNetwork.framework */; };
@@ -31,6 +23,17 @@
 		0A73F0471816BCB600836D75 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0461816BCB600836D75 /* Security.framework */; };
 		0A73F0491816BCBC00836D75 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F0481816BCBC00836D75 /* StoreKit.framework */; };
 		0A73F04B1816BCC000836D75 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A73F04A1816BCC000836D75 /* SystemConfiguration.framework */; };
+		0ACA563D1821896600BEB04A /* PPTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA563A1821896600BEB04A /* PPTAppDelegate.m */; };
+		0ACA563E1821896600BEB04A /* PPTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA563C1821896600BEB04A /* PPTViewController.m */; };
+		0ACA56401821897200BEB04A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA563F1821897200BEB04A /* Images.xcassets */; };
+		0ACA56431821898500BEB04A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA56411821898500BEB04A /* Main.storyboard */; };
+		0ACA564B182189AE00BEB04A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA5649182189AE00BEB04A /* InfoPlist.strings */; };
+		0ACA564F182189C100BEB04A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA564D182189C100BEB04A /* InfoPlist.strings */; };
+		0ACA5651182189C700BEB04A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA5650182189C700BEB04A /* main.m */; };
+		0ACA5654182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA5652182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Info.plist */; };
+		0ACA565518218A7100BEB04A /* PushTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA56441821899000BEB04A /* PushTestTests.m */; };
+		0ACA565618218A7700BEB04A /* TestPush.temp_caseinsensitive_renameTests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA56461821899800BEB04A /* TestPush.temp_caseinsensitive_renameTests-Info.plist */; };
+		0ACA565718218A7C00BEB04A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA5649182189AE00BEB04A /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,21 +51,8 @@
 		0A73F0031816BA2600836D75 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0A73F0051816BA2600836D75 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0A73F0071816BA2600836D75 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		0A73F00B1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestPush.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
-		0A73F00D1816BA2600836D75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0A73F00F1816BA2600836D75 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0A73F0111816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestPush.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
-		0A73F0121816BA2600836D75 /* PPTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PPTAppDelegate.h; sourceTree = "<group>"; };
-		0A73F0131816BA2600836D75 /* PPTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPTAppDelegate.m; sourceTree = "<group>"; };
-		0A73F0161816BA2600836D75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0A73F0181816BA2600836D75 /* PPTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PPTViewController.h; sourceTree = "<group>"; };
-		0A73F0191816BA2600836D75 /* PPTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPTViewController.m; sourceTree = "<group>"; };
-		0A73F01B1816BA2600836D75 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		0A73F0211816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestPush.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A73F0221816BA2600836D75 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		0A73F02A1816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestPush.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = "<group>"; };
-		0A73F02C1816BA2600836D75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0A73F02E1816BA2600836D75 /* PushTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PushTestTests.m; sourceTree = "<group>"; };
 		0A73F0381816BA8800836D75 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = ThirdParty/Parse.framework; sourceTree = "<group>"; };
 		0A73F03A1816BC7100836D75 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		0A73F03C1816BC7500836D75 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
@@ -73,6 +63,19 @@
 		0A73F0461816BCB600836D75 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		0A73F0481816BCBC00836D75 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		0A73F04A1816BCC000836D75 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		0ACA56391821896600BEB04A /* PPTAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PPTAppDelegate.h; path = TestPush/PPTAppDelegate.h; sourceTree = SOURCE_ROOT; };
+		0ACA563A1821896600BEB04A /* PPTAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PPTAppDelegate.m; path = TestPush/PPTAppDelegate.m; sourceTree = SOURCE_ROOT; };
+		0ACA563B1821896600BEB04A /* PPTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PPTViewController.h; path = TestPush/PPTViewController.h; sourceTree = SOURCE_ROOT; };
+		0ACA563C1821896600BEB04A /* PPTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PPTViewController.m; path = TestPush/PPTViewController.m; sourceTree = SOURCE_ROOT; };
+		0ACA563F1821897200BEB04A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = TestPush/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		0ACA56421821898500BEB04A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = TestPush/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
+		0ACA56441821899000BEB04A /* PushTestTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PushTestTests.m; path = TestPushTests/PushTestTests.m; sourceTree = SOURCE_ROOT; };
+		0ACA56461821899800BEB04A /* TestPush.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "TestPush.temp_caseinsensitive_renameTests-Info.plist"; path = "TestPushTests/TestPush.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = SOURCE_ROOT; };
+		0ACA564A182189AE00BEB04A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = TestPush/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		0ACA564E182189C100BEB04A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = TestPush/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		0ACA5650182189C700BEB04A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = TestPush/main.m; sourceTree = SOURCE_ROOT; };
+		0ACA5652182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "TestPush.temp_caseinsensitive_rename-Info.plist"; path = "TestPush/TestPush.temp_caseinsensitive_rename-Info.plist"; sourceTree = SOURCE_ROOT; };
+		0ACA5653182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TestPush.temp_caseinsensitive_rename-Prefix.pch"; path = "TestPush/TestPush.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,12 +155,12 @@
 		0A73F0091816BA2600836D75 /* TestPush */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F0121816BA2600836D75 /* PPTAppDelegate.h */,
-				0A73F0131816BA2600836D75 /* PPTAppDelegate.m */,
-				0A73F0151816BA2600836D75 /* Main.storyboard */,
-				0A73F0181816BA2600836D75 /* PPTViewController.h */,
-				0A73F0191816BA2600836D75 /* PPTViewController.m */,
-				0A73F01B1816BA2600836D75 /* Images.xcassets */,
+				0ACA56391821896600BEB04A /* PPTAppDelegate.h */,
+				0ACA563A1821896600BEB04A /* PPTAppDelegate.m */,
+				0ACA563B1821896600BEB04A /* PPTViewController.h */,
+				0ACA563C1821896600BEB04A /* PPTViewController.m */,
+				0ACA56411821898500BEB04A /* Main.storyboard */,
+				0ACA563F1821897200BEB04A /* Images.xcassets */,
 				0A73F00A1816BA2600836D75 /* Supporting Files */,
 			);
 			name = TestPush;
@@ -167,10 +170,10 @@
 		0A73F00A1816BA2600836D75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F00B1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Info.plist */,
-				0A73F00C1816BA2600836D75 /* InfoPlist.strings */,
-				0A73F00F1816BA2600836D75 /* main.m */,
-				0A73F0111816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Prefix.pch */,
+				0ACA5650182189C700BEB04A /* main.m */,
+				0ACA564D182189C100BEB04A /* InfoPlist.strings */,
+				0ACA5652182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Info.plist */,
+				0ACA5653182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -178,7 +181,7 @@
 		0A73F0281816BA2600836D75 /* TestPushTests */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F02E1816BA2600836D75 /* PushTestTests.m */,
+				0ACA56441821899000BEB04A /* PushTestTests.m */,
 				0A73F0291816BA2600836D75 /* Supporting Files */,
 			);
 			name = TestPushTests;
@@ -188,8 +191,8 @@
 		0A73F0291816BA2600836D75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F02A1816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests-Info.plist */,
-				0A73F02B1816BA2600836D75 /* InfoPlist.strings */,
+				0ACA56461821899800BEB04A /* TestPush.temp_caseinsensitive_renameTests-Info.plist */,
+				0ACA5649182189AE00BEB04A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -278,9 +281,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A73F01C1816BA2600836D75 /* Images.xcassets in Resources */,
-				0A73F00E1816BA2600836D75 /* InfoPlist.strings in Resources */,
-				0A73F0171816BA2600836D75 /* Main.storyboard in Resources */,
+				0ACA5654182189D700BEB04A /* TestPush.temp_caseinsensitive_rename-Info.plist in Resources */,
+				0ACA56431821898500BEB04A /* Main.storyboard in Resources */,
+				0ACA564F182189C100BEB04A /* InfoPlist.strings in Resources */,
+				0ACA56401821897200BEB04A /* Images.xcassets in Resources */,
+				0ACA564B182189AE00BEB04A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +293,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A73F02D1816BA2600836D75 /* InfoPlist.strings in Resources */,
+				0ACA565618218A7700BEB04A /* TestPush.temp_caseinsensitive_renameTests-Info.plist in Resources */,
+				0ACA565718218A7C00BEB04A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,9 +305,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A73F01A1816BA2600836D75 /* PPTViewController.m in Sources */,
-				0A73F0101816BA2600836D75 /* main.m in Sources */,
-				0A73F0141816BA2600836D75 /* PPTAppDelegate.m in Sources */,
+				0ACA5651182189C700BEB04A /* main.m in Sources */,
+				0ACA563D1821896600BEB04A /* PPTAppDelegate.m in Sources */,
+				0ACA563E1821896600BEB04A /* PPTViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,7 +315,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A73F02F1816BA2600836D75 /* PushTestTests.m in Sources */,
+				0ACA565518218A7100BEB04A /* PushTestTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,26 +330,26 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		0A73F00C1816BA2600836D75 /* InfoPlist.strings */ = {
+		0ACA56411821898500BEB04A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0A73F00D1816BA2600836D75 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		0A73F0151816BA2600836D75 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0A73F0161816BA2600836D75 /* Base */,
+				0ACA56421821898500BEB04A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		0A73F02B1816BA2600836D75 /* InfoPlist.strings */ = {
+		0ACA5649182189AE00BEB04A /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0A73F02C1816BA2600836D75 /* en */,
+				0ACA564A182189AE00BEB04A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0ACA564D182189C100BEB04A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0ACA564E182189C100BEB04A /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -433,11 +439,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/liamodunne/Development/Test/PushTest/ThirdParty,
+					/Users/liamodunne/Development/Test/TestPush/ThirdParty,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PushTest/TestPush.temp_caseinsensitive_rename-Prefix.pch";
-				INFOPLIST_FILE = "PushTest/TestPush.temp_caseinsensitive_rename-Info.plist";
+				GCC_PREFIX_HEADER = "TestPush/TestPush.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "TestPush/TestPush.temp_caseinsensitive_rename-Info.plist";
 				PRODUCT_NAME = TestPush.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
@@ -451,11 +457,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/liamodunne/Development/Test/PushTest/ThirdParty,
+					/Users/liamodunne/Development/Test/TestPush/ThirdParty,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PushTest/TestPush.temp_caseinsensitive_rename-Prefix.pch";
-				INFOPLIST_FILE = "PushTest/TestPush.temp_caseinsensitive_rename-Info.plist";
+				GCC_PREFIX_HEADER = "TestPush/TestPush.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "TestPush/TestPush.temp_caseinsensitive_rename-Info.plist";
 				PRODUCT_NAME = TestPush.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
