@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0A73EFFF1816BA2600836D75"
                BuildableName = "pushtest.temp_caseinsensitive_rename.app"
-               BlueprintName = "pushtest.temp_caseinsensitive_rename"
-               ReferencedContainer = "container:pushtest.xcodeproj">
+               BlueprintName = "TestPush.temp_caseinsensitive_rename"
+               ReferencedContainer = "container:TestPush.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0A73F0201816BA2600836D75"
                BuildableName = "pushtest.temp_caseinsensitive_renameTests.xctest"
-               BlueprintName = "pushtest.temp_caseinsensitive_renameTests"
-               ReferencedContainer = "container:pushtest.xcodeproj">
+               BlueprintName = "TestPush.temp_caseinsensitive_renameTests"
+               ReferencedContainer = "container:TestPush.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A73EFFF1816BA2600836D75"
             BuildableName = "pushtest.temp_caseinsensitive_rename.app"
-            BlueprintName = "pushtest.temp_caseinsensitive_rename"
-            ReferencedContainer = "container:pushtest.xcodeproj">
+            BlueprintName = "TestPush.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:TestPush.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A73EFFF1816BA2600836D75"
             BuildableName = "pushtest.temp_caseinsensitive_rename.app"
-            BlueprintName = "pushtest.temp_caseinsensitive_rename"
-            ReferencedContainer = "container:pushtest.xcodeproj">
+            BlueprintName = "TestPush.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:TestPush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A73EFFF1816BA2600836D75"
             BuildableName = "pushtest.temp_caseinsensitive_rename.app"
-            BlueprintName = "pushtest.temp_caseinsensitive_rename"
-            ReferencedContainer = "container:pushtest.xcodeproj">
+            BlueprintName = "TestPush.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:TestPush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

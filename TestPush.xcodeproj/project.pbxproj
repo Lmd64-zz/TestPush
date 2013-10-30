@@ -44,23 +44,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0A73F0001816BA2600836D75 /* pushtest.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pushtest.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A73F0001816BA2600836D75 /* TestPush.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestPush.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A73F0031816BA2600836D75 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0A73F0051816BA2600836D75 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0A73F0071816BA2600836D75 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		0A73F00B1816BA2600836D75 /* pushtest.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "pushtest.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
+		0A73F00B1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestPush.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
 		0A73F00D1816BA2600836D75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0A73F00F1816BA2600836D75 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0A73F0111816BA2600836D75 /* pushtest.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "pushtest.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
+		0A73F0111816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestPush.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
 		0A73F0121816BA2600836D75 /* PPTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PPTAppDelegate.h; sourceTree = "<group>"; };
 		0A73F0131816BA2600836D75 /* PPTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPTAppDelegate.m; sourceTree = "<group>"; };
 		0A73F0161816BA2600836D75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0A73F0181816BA2600836D75 /* PPTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PPTViewController.h; sourceTree = "<group>"; };
 		0A73F0191816BA2600836D75 /* PPTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPTViewController.m; sourceTree = "<group>"; };
 		0A73F01B1816BA2600836D75 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		0A73F0211816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pushtest.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A73F0211816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestPush.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A73F0221816BA2600836D75 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		0A73F02A1816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "pushtest.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = "<group>"; };
+		0A73F02A1816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestPush.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = "<group>"; };
 		0A73F02C1816BA2600836D75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0A73F02E1816BA2600836D75 /* PushTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PushTestTests.m; sourceTree = "<group>"; };
 		0A73F0381816BA8800836D75 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = ThirdParty/Parse.framework; sourceTree = "<group>"; };
@@ -112,8 +112,8 @@
 		0A73EFF71816BA2600836D75 = {
 			isa = PBXGroup;
 			children = (
-				0A73F0091816BA2600836D75 /* PushTest */,
-				0A73F0281816BA2600836D75 /* PushTestTests */,
+				0A73F0091816BA2600836D75 /* TestPush */,
+				0A73F0281816BA2600836D75 /* TestPushTests */,
 				0A73F0021816BA2600836D75 /* Frameworks */,
 				0A73F0011816BA2600836D75 /* Products */,
 			);
@@ -122,8 +122,8 @@
 		0A73F0011816BA2600836D75 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F0001816BA2600836D75 /* pushtest.temp_caseinsensitive_rename.app */,
-				0A73F0211816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests.xctest */,
+				0A73F0001816BA2600836D75 /* TestPush.temp_caseinsensitive_rename.app */,
+				0A73F0211816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -149,7 +149,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		0A73F0091816BA2600836D75 /* PushTest */ = {
+		0A73F0091816BA2600836D75 /* TestPush */ = {
 			isa = PBXGroup;
 			children = (
 				0A73F0121816BA2600836D75 /* PPTAppDelegate.h */,
@@ -160,33 +160,35 @@
 				0A73F01B1816BA2600836D75 /* Images.xcassets */,
 				0A73F00A1816BA2600836D75 /* Supporting Files */,
 			);
+			name = TestPush;
 			path = PushTest;
 			sourceTree = "<group>";
 		};
 		0A73F00A1816BA2600836D75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F00B1816BA2600836D75 /* pushtest.temp_caseinsensitive_rename-Info.plist */,
+				0A73F00B1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Info.plist */,
 				0A73F00C1816BA2600836D75 /* InfoPlist.strings */,
 				0A73F00F1816BA2600836D75 /* main.m */,
-				0A73F0111816BA2600836D75 /* pushtest.temp_caseinsensitive_rename-Prefix.pch */,
+				0A73F0111816BA2600836D75 /* TestPush.temp_caseinsensitive_rename-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		0A73F0281816BA2600836D75 /* PushTestTests */ = {
+		0A73F0281816BA2600836D75 /* TestPushTests */ = {
 			isa = PBXGroup;
 			children = (
 				0A73F02E1816BA2600836D75 /* PushTestTests.m */,
 				0A73F0291816BA2600836D75 /* Supporting Files */,
 			);
+			name = TestPushTests;
 			path = PushTestTests;
 			sourceTree = "<group>";
 		};
 		0A73F0291816BA2600836D75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0A73F02A1816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests-Info.plist */,
+				0A73F02A1816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests-Info.plist */,
 				0A73F02B1816BA2600836D75 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -195,9 +197,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0A73EFFF1816BA2600836D75 /* pushtest.temp_caseinsensitive_rename */ = {
+		0A73EFFF1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A73F0321816BA2600836D75 /* Build configuration list for PBXNativeTarget "pushtest.temp_caseinsensitive_rename" */;
+			buildConfigurationList = 0A73F0321816BA2600836D75 /* Build configuration list for PBXNativeTarget "TestPush.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				0A73EFFC1816BA2600836D75 /* Sources */,
 				0A73EFFD1816BA2600836D75 /* Frameworks */,
@@ -207,14 +209,14 @@
 			);
 			dependencies = (
 			);
-			name = pushtest.temp_caseinsensitive_rename;
+			name = TestPush.temp_caseinsensitive_rename;
 			productName = PushTest;
-			productReference = 0A73F0001816BA2600836D75 /* pushtest.temp_caseinsensitive_rename.app */;
+			productReference = 0A73F0001816BA2600836D75 /* TestPush.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0A73F0201816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests */ = {
+		0A73F0201816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A73F0351816BA2600836D75 /* Build configuration list for PBXNativeTarget "pushtest.temp_caseinsensitive_renameTests" */;
+			buildConfigurationList = 0A73F0351816BA2600836D75 /* Build configuration list for PBXNativeTarget "TestPush.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				0A73F01D1816BA2600836D75 /* Sources */,
 				0A73F01E1816BA2600836D75 /* Frameworks */,
@@ -225,9 +227,9 @@
 			dependencies = (
 				0A73F0271816BA2600836D75 /* PBXTargetDependency */,
 			);
-			name = pushtest.temp_caseinsensitive_renameTests;
+			name = TestPush.temp_caseinsensitive_renameTests;
 			productName = PushTestTests;
-			productReference = 0A73F0211816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests.xctest */;
+			productReference = 0A73F0211816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -252,7 +254,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0A73EFFB1816BA2600836D75 /* Build configuration list for PBXProject "pushtest" */;
+			buildConfigurationList = 0A73EFFB1816BA2600836D75 /* Build configuration list for PBXProject "TestPush" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -265,8 +267,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0A73EFFF1816BA2600836D75 /* pushtest.temp_caseinsensitive_rename */,
-				0A73F0201816BA2600836D75 /* pushtest.temp_caseinsensitive_renameTests */,
+				0A73EFFF1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename */,
+				0A73F0201816BA2600836D75 /* TestPush.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -316,7 +318,7 @@
 /* Begin PBXTargetDependency section */
 		0A73F0271816BA2600836D75 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0A73EFFF1816BA2600836D75 /* pushtest.temp_caseinsensitive_rename */;
+			target = 0A73EFFF1816BA2600836D75 /* TestPush.temp_caseinsensitive_rename */;
 			targetProxy = 0A73F0261816BA2600836D75 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -434,9 +436,9 @@
 					/Users/liamodunne/Development/Test/PushTest/ThirdParty,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PushTest/pushtest.temp_caseinsensitive_rename-Prefix.pch";
-				INFOPLIST_FILE = "PushTest/pushtest.temp_caseinsensitive_rename-Info.plist";
-				PRODUCT_NAME = pushtest.temp_caseinsensitive_rename;
+				GCC_PREFIX_HEADER = "PushTest/TestPush.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "PushTest/TestPush.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = TestPush.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -452,9 +454,9 @@
 					/Users/liamodunne/Development/Test/PushTest/ThirdParty,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "PushTest/pushtest.temp_caseinsensitive_rename-Prefix.pch";
-				INFOPLIST_FILE = "PushTest/pushtest.temp_caseinsensitive_rename-Info.plist";
-				PRODUCT_NAME = pushtest.temp_caseinsensitive_rename;
+				GCC_PREFIX_HEADER = "PushTest/TestPush.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "PushTest/TestPush.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = TestPush.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -475,8 +477,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "PushTestTests/pushtest.temp_caseinsensitive_renameTests-Info.plist";
-				PRODUCT_NAME = pushtest.temp_caseinsensitive_renameTests;
+				INFOPLIST_FILE = "PushTestTests/TestPush.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = TestPush.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -494,8 +496,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PushTest/PushTest-Prefix.pch";
-				INFOPLIST_FILE = "PushTestTests/pushtest.temp_caseinsensitive_renameTests-Info.plist";
-				PRODUCT_NAME = pushtest.temp_caseinsensitive_renameTests;
+				INFOPLIST_FILE = "PushTestTests/TestPush.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = TestPush.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -504,7 +506,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0A73EFFB1816BA2600836D75 /* Build configuration list for PBXProject "pushtest" */ = {
+		0A73EFFB1816BA2600836D75 /* Build configuration list for PBXProject "TestPush" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A73F0301816BA2600836D75 /* Debug */,
@@ -513,7 +515,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A73F0321816BA2600836D75 /* Build configuration list for PBXNativeTarget "pushtest.temp_caseinsensitive_rename" */ = {
+		0A73F0321816BA2600836D75 /* Build configuration list for PBXNativeTarget "TestPush.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A73F0331816BA2600836D75 /* Debug */,
@@ -522,7 +524,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A73F0351816BA2600836D75 /* Build configuration list for PBXNativeTarget "pushtest.temp_caseinsensitive_renameTests" */ = {
+		0A73F0351816BA2600836D75 /* Build configuration list for PBXNativeTarget "TestPush.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A73F0361816BA2600836D75 /* Debug */,
