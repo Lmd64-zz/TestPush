@@ -1,0 +1,8 @@
+{
+    "aps" : {
+        "alert" : "Test Push",
+        "badge" : 9,
+        "sound" : "bingbong.aiff"
+    }
+}
+
